@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Preparation\\TestTask\\MyTask_WebService\\MyTask_WebService.csproj": {}
+    "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\MyTask_WebService\\MyTask_WebService.csproj": {}
   },
   "projects": {
-    "C:\\Preparation\\TestTask\\MyTask_WebService\\MyTask_WebService.csproj": {
+    "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\MyTask_WebService\\MyTask_WebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Preparation\\TestTask\\MyTask_WebService\\MyTask_WebService.csproj",
+        "projectUniqueName": "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\MyTask_WebService\\MyTask_WebService.csproj",
         "projectName": "MyTask_WebService",
-        "projectPath": "C:\\Preparation\\TestTask\\MyTask_WebService\\MyTask_WebService.csproj",
+        "projectPath": "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\MyTask_WebService\\MyTask_WebService.csproj",
         "packagesPath": "C:\\Users\\nyakymiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Preparation\\TestTask\\MyTask_WebService\\obj\\",
+        "outputPath": "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\MyTask_WebService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ZRpgMMxBg2HjvsFps7bG5TwvUwB0PKj1hwubAZaJEHuk/VALuQ9cvL1WySTcs3NDWES6o0LbAhzAbYIsCLTRA==",
+  "dgSpecHash": "ZqQtUSbyxdHPS31d280rIHHko6Ziur6T0LFAiuG0c8ofLIqyky7ja9pdGuiBKhWNnMJp3j8w8TIvuzuk5FgCZA==",
   "success": true,
-  "projectFilePath": "C:\\Preparation\\TestTask\\MyTask_WebService\\MyTask_WebService.csproj",
+  "projectFilePath": "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\MyTask_WebService\\MyTask_WebService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nyakymiv\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\nyakymiv\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

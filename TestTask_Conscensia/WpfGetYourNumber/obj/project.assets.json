@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Preparation\\TestTask\\WpfGetYourNumber\\WpfGetYourNumber.csproj",
+      "projectUniqueName": "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\WpfGetYourNumber\\WpfGetYourNumber.csproj",
       "projectName": "WpfGetYourNumber",
-      "projectPath": "C:\\Preparation\\TestTask\\WpfGetYourNumber\\WpfGetYourNumber.csproj",
+      "projectPath": "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\WpfGetYourNumber\\WpfGetYourNumber.csproj",
       "packagesPath": "C:\\Users\\nyakymiv\\.nuget\\packages\\",
-      "outputPath": "C:\\Preparation\\TestTask\\WpfGetYourNumber\\obj\\",
+      "outputPath": "C:\\Preparation\\TestApplications\\TestTask_Conscensia\\WpfGetYourNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
